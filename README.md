@@ -2,7 +2,7 @@
 I am not a professional developer and development has never been my main activity,
 but my career has always been punctuated by a whole bunch of small professional and personal projects
 which allowed me to acquire certain basic skills in many areas. (html/css/web, C/C++, Python, VBA etc…)
-A very small part of these projects are public, but the majority must remain private because they often contain private or professional data.
+A very small part of these projects are public, but the majority must remain private because they often contain private datas.
 
 <!--
 **Peedjy/Peedjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
